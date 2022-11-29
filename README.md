@@ -40,4 +40,4 @@ void detect_lang fonksiyonu ile yazının hangi dile daha yakın olduğunu ve bu
  
     1. Murat Yücedağ
     2. Bilgisayar Kavramları
-    3. Ergün Hoca  
+    3. Udemy  
